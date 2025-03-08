@@ -1,2 +1,5 @@
 # node_modulesフォルダを無視
 node_modules/
+
+# distフォルダを無視
+dist/
